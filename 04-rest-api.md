@@ -1,5 +1,4 @@
 # Outline
-- Chữa bài quiz.
 - Rest là gì? Lịch sử ra đời? Tại sao ra đời?
 - Tại sao dùng Rest API?
 - Các thành phần của Rest API.
