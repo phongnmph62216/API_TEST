@@ -143,9 +143,6 @@
 # Thử gọi một REST API với Postman
 - Endpoint: https://material.playwrightvn.com/api/01-information.php
 
-# Quiz
-- [Link](https://docs.google.com/forms/d/1EMJQOrkNqUmKFSS9TB2xFO2NNbD9rHwyT1dXHTWSEgc/preview)
-
 # What's next?
 - Thực hành các API: POST, GET, PUT, DELETE với Postman
 - Import request từ Chrome Developer Tool với Postman
